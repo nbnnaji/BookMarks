@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookMarks</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="ulta">www.ulta.com</string>
+    <string name="sephora">www.sephora.com</string>
+    <string name="bhcosmetics">www.bhcosmetics.com</string>
+    <string name="urbandecay">www.urbandecay.com</string>
+</resources>
